@@ -20,7 +20,7 @@ I will try to predict S&P500 stock price +20 working days into the future using:
 - Beat the benchmark model.
 
 ## Results:
-### Feature creation:
+### Features:
 - 17 features imported, 5 selected for the final model
 - 29 features created, 20 selected for the final model
 
